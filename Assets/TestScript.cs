@@ -5,7 +5,7 @@ public class TestScript : MonoBehaviour
 {
 	void Start()
 	{
-		Debug.Log("Start");
+		Debug.Log("Start from github");
 	}
 	
 	void Update()
