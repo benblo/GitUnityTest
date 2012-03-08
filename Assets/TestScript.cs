@@ -10,6 +10,6 @@ public class TestScript : MonoBehaviour
 	
 	void Update()
 	{
-		Debug.Log("Update");
+		Debug.Log("Update from github");
 	}
 }
