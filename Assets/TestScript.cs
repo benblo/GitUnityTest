@@ -1,15 +1,15 @@
 using UnityEngine;
 using System.Collections;
 
-public class TestScript : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-	
+public class TestScript : MonoBehaviour
+{
+	void Start()
+	{
+		Debug.Log("Start");
 	}
 	
-	// Update is called once per frame
-	void Update () {
-	
+	void Update()
+	{
+		Debug.Log("Update");
 	}
 }
